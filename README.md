@@ -1,1 +1,5 @@
-# EmuRTools
+# EmuR Tools
+
+This package supports the Emu SDMS (including the [Emu-Webapp](https://github.com/IPS-LMU/EMU-webApp/) and [Emu R](https://github.com/IPS-LMU/emuR/)) and includes R functions and GUI tools for creating, managing and analysing large phonetic corpora. This package is under active development and is not yet for active use. Please contact the author for more information on the timeline of the package or if you have any suggestions for features (if so, use the [Issues](https://github.com/Hywel-Stoakes/EmuRTools/issues) tab on GitHub ).
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">This work   is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>

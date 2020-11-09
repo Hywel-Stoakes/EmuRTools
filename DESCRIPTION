@@ -1,13 +1,13 @@
 Package: EmuRTools
-Title: An Amazing Shiny App
+Title: Tools for EmuR
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Hywel",
+           family = "Stoakes",
            role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
-License: What license is it under?
+           email = "hstoakes@unimelb.edu.au")
+Description: A package and application to support the Emu SDMS.
+License:  CC BY-SA 4.0
 Imports: 
     config,
     golem,
