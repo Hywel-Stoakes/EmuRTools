@@ -51,6 +51,8 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 # library(EmuRTools)
 ## basic example code
+
+## This will be added to once modules become available
 ```
 
 ## Code of Conduct
