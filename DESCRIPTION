@@ -7,6 +7,7 @@ License: CC0
 Imports: 
     config,
     golem,
+    wavesurfer,
     shiny,
     processx,
     attempt,
@@ -14,8 +15,7 @@ Imports:
     glue,
     htmltools,
     thinkr,
-    emuR,
-    wavesurfer
+    emuR
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
