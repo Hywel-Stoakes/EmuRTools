@@ -22,9 +22,10 @@ suggestions for features (if so, use the
 GitHub ). For more information on the Emu SDMS see [the
 Manual](https://ips-lmu.github.io/The-EMU-SDMS-Manual/).
 
-This package is built on the \[Golem framework\]
-(<https://engineering-shiny.org/golem.html>) for Shiny and it documented
-using the [Bookdown](https://bookdown.org) and Rmarkdown packages.
+This package is built on the [Golem
+framework](https://engineering-shiny.org/golem.html) for Shiny and it
+documented using the [Bookdown](https://bookdown.org) and Rmarkdown
+packages.
 
 ## Installation
 
