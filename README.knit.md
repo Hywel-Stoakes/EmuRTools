@@ -4,14 +4,7 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
+
 
 # EmuRTools
 
@@ -48,7 +41,8 @@ And the development version from [GitHub](https://github.com/) with:
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+
+```r
 # library(EmuRTools)
 ## basic example code
 ```
