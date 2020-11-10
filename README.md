@@ -26,15 +26,6 @@ This package is built on the \[Golem framework\]
 (<https://engineering-shiny.org/golem.html>) for Shiny and it documented
 using the [Bookdown](https://bookdown.org) and Rmarkdown packages.
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
-This work is licensed under
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC
-BY-SA 4.0
-</p>
-<p>
-<img style="height:10px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:10px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:10px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
-</p>
-
 ## Installation
 
 You can install the released version of EmuRTools from
@@ -66,3 +57,14 @@ Please note that the EmuRTools project is released with a [Contributor
 Code of
 Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
 By contributing to this project, you agree to abide by its terms.
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
+This work is licensed under
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC
+BY-SA 4.0
+</p>
+<p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+</p>
