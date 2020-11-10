@@ -29,8 +29,8 @@ packages.
 
 ## Installation
 
-You can install the released version of EmuRTools from
-[CRAN](https://CRAN.R-project.org) with:
+When this package is ready for distribution you can install the released
+version of EmuRTools from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 # install.packages("EmuRTools")
@@ -39,6 +39,7 @@ You can install the released version of EmuRTools from
 And the development version from [GitHub](https://github.com/) with:
 
 ``` r
+# Note: package not ready for distribution - check back soon
 # install.packages("devtools")
 # devtools::install_github("Hywel-Stoakes/EmuRTools")
 ```
