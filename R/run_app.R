@@ -5,7 +5,6 @@
 #' @export
 #' @importFrom shiny shinyApp
 #' @importFrom golem with_golem_options
-#' @importFrom wavesurfer runExample
 run_app <- function(
   ...
 ) {

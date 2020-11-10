@@ -15,8 +15,8 @@
 ## Add meta data about your application
 golem::fill_desc(
   pkg_name = "EmuRTools", # The Name of the package containing the App
-  pkg_title = "PKG_TITLE", # The Title of the package containing the App
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App
+  pkg_title = "EmuR Tools", # The Title of the package containing the App
+  pkg_description = "R Tools and Shiny GUI applications for managing and analysing Emu SDMS Databases.", # The Description of the package containing the App
   author_first_name = "Hywel", # Your First Name
   author_last_name = "Stoakes", # Your Last Name
   author_email = "hstoakes@unimelb.edu.au", # Your Email

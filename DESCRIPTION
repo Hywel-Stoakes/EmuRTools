@@ -1,8 +1,8 @@
 Package: EmuRTools
-Title: PKG_TITLE
+Title: EmuR Tools
 Version: 0.0.0.9000
 Authors@R: person('Hywel', 'Stoakes', email = 'hstoakes@unimelb.edu.au', role = c('cre', 'aut'))
-Description: PKG_DESC.
+Description: R Tools and Shiny GUI applications for managing and analysing Emu SDMS Databases.
 License: CC0
 Imports: 
     config,

@@ -26,10 +26,11 @@ usethis::use_package( "wavesurfer" )
 
 ## Add modules ----
 ## Create a module infrastructure in R/
-golem::add_module( name = "01_load_db_local" ) # Name of the module
-golem::add_module( name = "02_edit_template" ) # Name of the module
+golem::add_module( name = "00_db_tools" ) # Name of the module
 golem::add_module( name = "00_add_formants_db" ) # Name of the module
 golem::add_module( name = "00_add_f0_db" ) # Name of the module
+golem::add_module( name = "01_load_db_local" ) # Name of the module
+golem::add_module( name = "02_edit_template" ) # Name of the module
 golem::add_module( name = "03_annotate_mfa" ) # Name of the module
 golem::add_module( name = "04_analysis" ) # Name of the module
 
