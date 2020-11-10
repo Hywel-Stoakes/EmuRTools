@@ -16,8 +16,12 @@
 ## Dependencies ----
 ## Add one line by package you want to add as dependency
 # install.packages(c("thinkr","emuR"))
+# # install.packages("remotes")
+# remotes::install_github("Athospd/wavesurfer")
+
 usethis::use_package( "thinkr" )
 usethis::use_package( "emuR" )
+usethis::use_package( "wavesurfer" )
 # Refer to functions with `emuR::fun()`
 
 ## Add modules ----

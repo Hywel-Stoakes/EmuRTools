@@ -27,6 +27,12 @@ framework](https://engineering-shiny.org/golem.html) for Shiny and it
 documented using the [Bookdown](https://bookdown.org) and Rmarkdown
 packages.
 
+Elements of the Shiny modules depend on the [Wavesurfer
+Package](https://github.com/Athospd/wavesurfer) which in turn is an
+interface for the `wavesurfer.js` JavaScript library (see github page
+for installation instructions and information on the development of the
+package).
+
 ## Installation
 
 When this package is ready for distribution you can install the released
